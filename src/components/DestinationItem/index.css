@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.img-edit {
+  height: 200px;
+  width: 250px;
+}
+.each-list {
+  list-style: none;
+  margin: 15px;
+}
+p {
+  text-align: left;
+  font-family: 'Open Sans';
+  font-size: 13px;
+  font-weight: bold;
+}

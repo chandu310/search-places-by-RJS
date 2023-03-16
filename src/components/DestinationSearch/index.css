@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.main-container {
+  min-height: 100vh;
+  padding: 35px;
+  padding-left: 20px;
+}
+.second-container {
+  text-align: center;
+}
+h1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.icon {
+  background: url('https://assets.ccbp.in/frontend/react-js/destinations-search-icon-img.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 20px;
+  font-size: 15px;
+  padding: 8px 28px 8px 9px;
+  border-width: 0px;
+  background-color: #f1f5f9;
+  outline: none;
+  height: 45px;
+  border-radius: 10px;
+}
+ul {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
